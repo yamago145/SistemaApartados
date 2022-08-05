@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A5D95665-C4A8-431F-971A-E0F1BA826932}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SistemaApartados</RootNamespace>
+    <AssemblyName>SistemaApartados</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp, Version=5.5.10.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="MySql.Data, Version=8.0.16.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseDatos\BDconexion.cs" />
+    <Compile Include="Control\ControlApartado.cs" />
+    <Compile Include="Control\ControlCliente.cs" />
+    <Compile Include="Control\ControlProducto.cs" />
+    <Compile Include="DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetCredito.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetCredito.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetNLiquidacion.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetNLiquidacion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetProductos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetProductos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Datos\Apartado.cs" />
+    <Compile Include="Datos\ApartadosDisponibles.cs" />
+    <Compile Include="Datos\Cliente.cs" />
+    <Compile Include="Datos\VistaNotaCredito.cs" />
+    <Compile Include="Datos\NotaLiquidacion.cs" />
+    <Compile Include="Datos\Producto.cs" />
+    <Compile Include="Datos\ProductoVenta.cs" />
+    <Compile Include="Datos\Usuario.cs" />
+    <Compile Include="Frm_NLiquidacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_NLiquidacion.Designer.cs">
+      <DependentUpon>Frm_NLiquidacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_NotaCredito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_NotaCredito.Designer.cs">
+      <DependentUpon>Frm_NotaCredito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\Frm_AltaApartados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\Frm_AltaApartados.Designer.cs">
+      <DependentUpon>Frm_AltaApartados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\Frm_ConsultarApartados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\Frm_ConsultarApartados.Designer.cs">
+      <DependentUpon>Frm_ConsultarApartados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\Frm_ModificarApartado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\Frm_ModificarApartado.Designer.cs">
+      <DependentUpon>Frm_ModificarApartado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\Frm_ModificarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\Frm_ModificarProducto.Designer.cs">
+      <DependentUpon>Frm_ModificarProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\Frm_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\Frm_Principal.Designer.cs">
+      <DependentUpon>Frm_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\Frm_AltaProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\Frm_AltaProductos.Designer.cs">
+      <DependentUpon>Frm_AltaProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\Frm_ConsultarProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\Frm_ConsultarProductos.Designer.cs">
+      <DependentUpon>Frm_ConsultarProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\Frm_LiquidarApartado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\Frm_LiquidarApartado.Designer.cs">
+      <DependentUpon>Frm_LiquidarApartado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\Frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\Frm_Login.Designer.cs">
+      <DependentUpon>Frm_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\Frm_ReporteApartados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\Frm_ReporteApartados.Designer.cs">
+      <DependentUpon>Frm_ReporteApartados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\Frm_ReporteProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\Frm_ReporteProducto.Designer.cs">
+      <DependentUpon>Frm_ReporteProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Frm_NLiquidacion.resx">
+      <DependentUpon>Frm_NLiquidacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_NotaCredito.resx">
+      <DependentUpon>Frm_NotaCredito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\Frm_AltaApartados.resx">
+      <DependentUpon>Frm_AltaApartados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\Frm_ConsultarApartados.resx">
+      <DependentUpon>Frm_ConsultarApartados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\Frm_ModificarApartado.resx">
+      <DependentUpon>Frm_ModificarApartado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\Frm_ModificarProducto.resx">
+      <DependentUpon>Frm_ModificarProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\Frm_Principal.resx">
+      <DependentUpon>Frm_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\Frm_AltaProductos.resx">
+      <DependentUpon>Frm_AltaProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\Frm_ConsultarProductos.resx">
+      <DependentUpon>Frm_ConsultarProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\Frm_LiquidarApartado.resx">
+      <DependentUpon>Frm_LiquidarApartado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\Frm_Login.resx">
+      <DependentUpon>Frm_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\Frm_ReporteApartados.resx">
+      <DependentUpon>Frm_ReporteApartados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\Frm_ReporteProducto.resx">
+      <DependentUpon>Frm_ReporteProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotaCredito.rdlc" />
+    <EmbeddedResource Include="NotaLiquidacion.rdlc" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReporteApartados.rdlc" />
+    <EmbeddedResource Include="ReporteProductos.rdlc" />
+    <None Include="DataSet2.xsc">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet2.xss">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetCredito.xsc">
+      <DependentUpon>DataSetCredito.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetCredito.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetCredito.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetCredito.xss">
+      <DependentUpon>DataSetCredito.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetNLiquidacion.xsc">
+      <DependentUpon>DataSetNLiquidacion.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetNLiquidacion.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetNLiquidacion.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetNLiquidacion.xss">
+      <DependentUpon>DataSetNLiquidacion.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetProductos.xsc">
+      <DependentUpon>DataSetProductos.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetProductos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetProductos.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetProductos.xss">
+      <DependentUpon>DataSetProductos.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\DataSources\SistemaApartados.Datos.Apartado.datasource" />
+    <None Include="Properties\DataSources\SistemaApartados.Datos.NotaLiquidacion.datasource" />
+    <None Include="Properties\DataSources\SistemaApartados.Datos.Producto.datasource" />
+    <None Include="Properties\DataSources\SistemaApartados.Datos.VistaNotaCredito.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Recursos\anadir.PNG" />
+    <Content Include="Recursos\anadirproducto.PNG" />
+    <Content Include="Recursos\buscar.PNG" />
+    <Content Include="Recursos\Cancelarapartado.PNG" />
+    <Content Include="Recursos\Cantidad.PNG" />
+    <Content Include="Recursos\cliente.PNG" />
+    <Content Include="Recursos\Consulta.PNG" />
+    <None Include="Recursos\Consultar.PNG" />
+    <Content Include="Recursos\eliminar.PNG" />
+    <Content Include="Recursos\Enganxhe.PNG" />
+    <Content Include="Recursos\Fecha.PNG" />
+    <Content Include="Recursos\fecha2.PNG" />
+    <Content Include="Recursos\guardar.png" />
+    <Content Include="Recursos\listo.PNG" />
+    <Content Include="Recursos\nuevo.PNG" />
+    <Content Include="Recursos\Precio.PNG" />
+    <Content Include="Recursos\quitar.PNG" />
+    <Content Include="Recursos\reloj.PNG" />
+    <Content Include="Recursos\ticket.PNG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

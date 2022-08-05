@@ -1,0 +1,234 @@
+C:\Users\ISAIAS\Documents\Visual Studio 2010\Projects\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.exe
+C:\Users\ISAIAS\Documents\Visual Studio 2010\Projects\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.pdb
+C:\Users\ISAIAS\Documents\Visual Studio 2010\Projects\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.FRMAltaApartado.resources
+C:\Users\ISAIAS\Documents\Visual Studio 2010\Projects\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.FRMConsultarApartado.resources
+C:\Users\ISAIAS\Documents\Visual Studio 2010\Projects\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.FRMPrincipal.resources
+C:\Users\ISAIAS\Documents\Visual Studio 2010\Projects\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.FRMAltaproducto.resources
+C:\Users\ISAIAS\Documents\Visual Studio 2010\Projects\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.FRMconsultaproducto.resources
+C:\Users\ISAIAS\Documents\Visual Studio 2010\Projects\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.FRMLiquidarApartado.resources
+C:\Users\ISAIAS\Documents\Visual Studio 2010\Projects\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Properties.Resources.resources
+C:\Users\ISAIAS\Documents\Visual Studio 2010\Projects\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csproj.GenerateResource.Cache
+C:\Users\ISAIAS\Documents\Visual Studio 2010\Projects\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.exe
+C:\Users\ISAIAS\Documents\Visual Studio 2010\Projects\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.pdb
+C:\Users\ISAIAS\Documents\Visual Studio 2010\Projects\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csprojResolveAssemblyReference.cache
+C:\Users\Jeny Picazo\Documents\Ingeniería De Software\Unidad 2\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.exe
+C:\Users\ISAIAS\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.exe
+C:\Users\ISAIAS\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csprojResolveAssemblyReference.cache
+C:\Users\ISAIAS\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaApartados.resources
+C:\Users\ISAIAS\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultarApartados.resources
+C:\Users\ISAIAS\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_Principal.resources
+C:\Users\ISAIAS\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaProductos.resources
+C:\Users\ISAIAS\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultaProductos.resources
+C:\Users\ISAIAS\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_LiquidarApartado.resources
+C:\Users\ISAIAS\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Properties.Resources.resources
+C:\Users\ISAIAS\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csproj.GenerateResource.Cache
+C:\Users\ISAIAS\Desktop\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.exe
+C:\Users\ISAIAS\Desktop\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.pdb
+C:\Users\ISAIAS\Desktop\SistemaApartados\SistemaApartados\bin\Debug\MySql.Data.dll
+C:\Users\ISAIAS\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.pdb
+C:\Users\Jeny Picazo\Documents\Ingeniería De Software\Unidad 2\Proyecto Sistema de Apartados\Version 0.2\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.exe
+C:\Users\Jeny Picazo\Documents\Ingeniería De Software\Unidad 2\Proyecto Sistema de Apartados\Version 0.2\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.pdb
+C:\Users\ISAIAS\Desktop\PROYECTO\PRIMERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.exe
+C:\Users\ISAIAS\Desktop\PROYECTO\PRIMERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.pdb
+C:\Users\ISAIAS\Desktop\PROYECTO\PRIMERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csprojResolveAssemblyReference.cache
+C:\Users\ISAIAS\Desktop\PROYECTO\PRIMERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaApartados.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\PRIMERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultarApartados.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\PRIMERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarApartado.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\PRIMERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarProducto.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\PRIMERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_Principal.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\PRIMERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaProductos.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\PRIMERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultaProductos.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\PRIMERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_LiquidarApartado.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\PRIMERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Properties.Resources.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\PRIMERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csproj.GenerateResource.Cache
+C:\Users\ISAIAS\Desktop\PROYECTO\PRIMERA MODIFICACION\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.exe
+C:\Users\ISAIAS\Desktop\PROYECTO\PRIMERA MODIFICACION\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.pdb
+C:\Users\ISAIAS\Desktop\PROYECTO\PRIMERA MODIFICACION\SistemaApartados\SistemaApartados\bin\Debug\MySql.Data.dll
+C:\Users\ISAIAS\Desktop\PROYECTO\PRIMERA MODIFICACION\SistemaApartados\SistemaApartados\bin\Debug\itextsharp.xml
+C:\Users\Jeny Picazo\Documents\Ingeniería De Software\Unidad 2\Proyecto Sistema de Apartados\Version 0.3\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.exe
+C:\Users\Jeny Picazo\Documents\Ingeniería De Software\Unidad 2\Proyecto Sistema de Apartados\Version 0.3\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.pdb
+C:\Users\Jeny Picazo\Documents\Ingeniería De Software\Unidad 2\Proyecto Sistema de Apartados\Version 0.3\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.exe
+C:\Users\Jeny Picazo\Documents\Ingeniería De Software\Unidad 2\Proyecto Sistema de Apartados\Version 0.3\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.pdb
+C:\Users\Jeny Picazo\Documents\Ingeniería De Software\Unidad 2\Proyecto Sistema de Apartados\Version 0.3\SistemaApartados\SistemaApartados\bin\Debug\itextsharp.xml
+C:\Users\Jeny Picazo\Documents\Ingeniería De Software\Unidad 2\Proyecto Sistema de Apartados\Version 0.3\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csprojResolveAssemblyReference.cache
+C:\Users\Jeny Picazo\Documents\Ingeniería De Software\Unidad 2\Proyecto Sistema de Apartados\Version 0.3\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaApartados.resources
+C:\Users\Jeny Picazo\Documents\Ingeniería De Software\Unidad 2\Proyecto Sistema de Apartados\Version 0.3\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultarApartados.resources
+C:\Users\Jeny Picazo\Documents\Ingeniería De Software\Unidad 2\Proyecto Sistema de Apartados\Version 0.3\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarApartado.resources
+C:\Users\Jeny Picazo\Documents\Ingeniería De Software\Unidad 2\Proyecto Sistema de Apartados\Version 0.3\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarProducto.resources
+C:\Users\Jeny Picazo\Documents\Ingeniería De Software\Unidad 2\Proyecto Sistema de Apartados\Version 0.3\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_Principal.resources
+C:\Users\Jeny Picazo\Documents\Ingeniería De Software\Unidad 2\Proyecto Sistema de Apartados\Version 0.3\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaProductos.resources
+C:\Users\Jeny Picazo\Documents\Ingeniería De Software\Unidad 2\Proyecto Sistema de Apartados\Version 0.3\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultaProductos.resources
+C:\Users\Jeny Picazo\Documents\Ingeniería De Software\Unidad 2\Proyecto Sistema de Apartados\Version 0.3\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_LiquidarApartado.resources
+C:\Users\Jeny Picazo\Documents\Ingeniería De Software\Unidad 2\Proyecto Sistema de Apartados\Version 0.3\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Properties.Resources.resources
+C:\Users\Jeny Picazo\Documents\Ingeniería De Software\Unidad 2\Proyecto Sistema de Apartados\Version 0.3\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csproj.GenerateResource.Cache
+C:\Users\ISAIAS\Desktop\PROYECTO\SEGUNDA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.exe
+C:\Users\ISAIAS\Desktop\PROYECTO\SEGUNDA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.pdb
+C:\Users\ISAIAS\Desktop\PROYECTO\SEGUNDA MODIFICACION\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.exe
+C:\Users\ISAIAS\Desktop\PROYECTO\SEGUNDA MODIFICACION\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.pdb
+C:\Users\ISAIAS\Desktop\PROYECTO\SEGUNDA MODIFICACION\SistemaApartados\SistemaApartados\bin\Debug\MySql.Data.dll
+C:\Users\ISAIAS\Desktop\PROYECTO\SEGUNDA MODIFICACION\SistemaApartados\SistemaApartados\bin\Debug\itextsharp.xml
+C:\Users\ISAIAS\Desktop\PROYECTO\SEGUNDA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csprojResolveAssemblyReference.cache
+C:\Users\ISAIAS\Desktop\PROYECTO\SEGUNDA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaApartados.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\SEGUNDA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultarApartados.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\SEGUNDA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarApartado.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\SEGUNDA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarProducto.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\SEGUNDA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_Principal.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\SEGUNDA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaProductos.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\SEGUNDA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultaProductos.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\SEGUNDA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_LiquidarApartado.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\SEGUNDA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Properties.Resources.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\SEGUNDA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csproj.GenerateResource.Cache
+C:\Users\Jeny Picazo\Documents\Ingeniería_De_Software\Unidad 2\Proyecto Sistema de Apartados\Version0.5\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.exe
+C:\Users\Jeny Picazo\Documents\Ingeniería_De_Software\Unidad 2\Proyecto Sistema de Apartados\Version0.5\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.pdb
+C:\Users\Jeny Picazo\Documents\Ingeniería_De_Software\Unidad 2\Proyecto Sistema de Apartados\Version0.5\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.exe
+C:\Users\Jeny Picazo\Documents\Ingeniería_De_Software\Unidad 2\Proyecto Sistema de Apartados\Version0.5\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.pdb
+C:\Users\Jeny Picazo\Documents\Ingeniería_De_Software\Unidad 2\Proyecto Sistema de Apartados\Version0.5\SistemaApartados\SistemaApartados\bin\Debug\itextsharp.xml
+C:\Users\Jeny Picazo\Documents\Ingeniería_De_Software\Unidad 2\Proyecto Sistema de Apartados\Version0.5\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csprojResolveAssemblyReference.cache
+C:\Users\Jeny Picazo\Documents\Ingeniería_De_Software\Unidad 2\Proyecto Sistema de Apartados\Version0.5\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaApartados.resources
+C:\Users\Jeny Picazo\Documents\Ingeniería_De_Software\Unidad 2\Proyecto Sistema de Apartados\Version0.5\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultarApartados.resources
+C:\Users\Jeny Picazo\Documents\Ingeniería_De_Software\Unidad 2\Proyecto Sistema de Apartados\Version0.5\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarApartado.resources
+C:\Users\Jeny Picazo\Documents\Ingeniería_De_Software\Unidad 2\Proyecto Sistema de Apartados\Version0.5\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarProducto.resources
+C:\Users\Jeny Picazo\Documents\Ingeniería_De_Software\Unidad 2\Proyecto Sistema de Apartados\Version0.5\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_Principal.resources
+C:\Users\Jeny Picazo\Documents\Ingeniería_De_Software\Unidad 2\Proyecto Sistema de Apartados\Version0.5\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaProductos.resources
+C:\Users\Jeny Picazo\Documents\Ingeniería_De_Software\Unidad 2\Proyecto Sistema de Apartados\Version0.5\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultaProductos.resources
+C:\Users\Jeny Picazo\Documents\Ingeniería_De_Software\Unidad 2\Proyecto Sistema de Apartados\Version0.5\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_LiquidarApartado.resources
+C:\Users\Jeny Picazo\Documents\Ingeniería_De_Software\Unidad 2\Proyecto Sistema de Apartados\Version0.5\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Properties.Resources.resources
+C:\Users\Jeny Picazo\Documents\Ingeniería_De_Software\Unidad 2\Proyecto Sistema de Apartados\Version0.5\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csproj.GenerateResource.Cache
+C:\Users\Jeny Picazo\Documents\Ingeniería_De_Software\Unidad 2\Proyecto Sistema de Apartados\Version0.5\SistemaApartados\SistemaApartados\bin\Debug\MySql.Data.dll
+C:\Users\ISAIAS\Desktop\lenguajes\SistemaApartados_v6\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.exe
+C:\Users\ISAIAS\Desktop\lenguajes\SistemaApartados_v6\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.pdb
+C:\Users\ISAIAS\Desktop\lenguajes\SistemaApartados_v6\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.exe
+C:\Users\ISAIAS\Desktop\lenguajes\SistemaApartados_v6\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.pdb
+C:\Users\ISAIAS\Desktop\lenguajes\SistemaApartados_v6\SistemaApartados\SistemaApartados\bin\Debug\MySql.Data.dll
+C:\Users\ISAIAS\Desktop\lenguajes\SistemaApartados_v6\SistemaApartados\SistemaApartados\bin\Debug\itextsharp.xml
+C:\Users\ISAIAS\Desktop\lenguajes\SistemaApartados_v6\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csprojResolveAssemblyReference.cache
+C:\Users\ISAIAS\Desktop\lenguajes\SistemaApartados_v6\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaApartados.resources
+C:\Users\ISAIAS\Desktop\lenguajes\SistemaApartados_v6\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultarApartados.resources
+C:\Users\ISAIAS\Desktop\lenguajes\SistemaApartados_v6\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarApartado.resources
+C:\Users\ISAIAS\Desktop\lenguajes\SistemaApartados_v6\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarProducto.resources
+C:\Users\ISAIAS\Desktop\lenguajes\SistemaApartados_v6\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_Principal.resources
+C:\Users\ISAIAS\Desktop\lenguajes\SistemaApartados_v6\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaProductos.resources
+C:\Users\ISAIAS\Desktop\lenguajes\SistemaApartados_v6\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultaProductos.resources
+C:\Users\ISAIAS\Desktop\lenguajes\SistemaApartados_v6\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_LiquidarApartado.resources
+C:\Users\ISAIAS\Desktop\lenguajes\SistemaApartados_v6\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Properties.Resources.resources
+C:\Users\ISAIAS\Desktop\lenguajes\SistemaApartados_v6\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csproj.GenerateResource.Cache
+C:\Users\ISAIAS\Desktop\PROYECTO\TERCERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.exe
+C:\Users\ISAIAS\Desktop\PROYECTO\TERCERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csprojResolveAssemblyReference.cache
+C:\Users\ISAIAS\Desktop\PROYECTO\TERCERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaApartados.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\TERCERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultarApartados.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\TERCERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarApartado.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\TERCERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarProducto.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\TERCERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_Principal.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\TERCERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaProductos.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\TERCERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultaProductos.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\TERCERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_LiquidarApartado.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\TERCERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Properties.Resources.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\TERCERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csproj.GenerateResource.Cache
+C:\Users\ISAIAS\Desktop\PROYECTO\TERCERA MODIFICACION\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.exe
+C:\Users\ISAIAS\Desktop\PROYECTO\TERCERA MODIFICACION\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.pdb
+C:\Users\ISAIAS\Desktop\PROYECTO\TERCERA MODIFICACION\SistemaApartados\SistemaApartados\bin\Debug\MySql.Data.dll
+C:\Users\ISAIAS\Desktop\PROYECTO\TERCERA MODIFICACION\SistemaApartados\SistemaApartados\bin\Debug\itextsharp.xml
+C:\Users\ISAIAS\Desktop\PROYECTO\TERCERA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.pdb
+C:\Users\MARTIN\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.exe
+C:\Users\MARTIN\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.pdb
+C:\Users\MARTIN\Desktop\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.exe
+C:\Users\MARTIN\Desktop\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.pdb
+C:\Users\MARTIN\Desktop\SistemaApartados\SistemaApartados\bin\Debug\MySql.Data.dll
+C:\Users\MARTIN\Desktop\SistemaApartados\SistemaApartados\bin\Debug\itextsharp.xml
+C:\Users\MARTIN\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csprojResolveAssemblyReference.cache
+C:\Users\MARTIN\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaApartados.resources
+C:\Users\MARTIN\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultarApartados.resources
+C:\Users\MARTIN\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarApartado.resources
+C:\Users\MARTIN\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarProducto.resources
+C:\Users\MARTIN\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_Principal.resources
+C:\Users\MARTIN\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaProductos.resources
+C:\Users\MARTIN\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultaProductos.resources
+C:\Users\MARTIN\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_LiquidarApartado.resources
+C:\Users\MARTIN\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Properties.Resources.resources
+C:\Users\MARTIN\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csproj.GenerateResource.Cache
+C:\Users\MARTIN\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_Login.resources
+C:\Users\MARTIN\Desktop\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_Registrar.resources
+D:\SistemaApartadoslogin\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.exe
+D:\SistemaApartadoslogin\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.pdb
+D:\SistemaApartadoslogin\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csprojResolveAssemblyReference.cache
+D:\SistemaApartadoslogin\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaApartados.resources
+D:\SistemaApartadoslogin\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultarApartados.resources
+D:\SistemaApartadoslogin\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarApartado.resources
+D:\SistemaApartadoslogin\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarProducto.resources
+D:\SistemaApartadoslogin\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_Principal.resources
+D:\SistemaApartadoslogin\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaProductos.resources
+D:\SistemaApartadoslogin\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultaProductos.resources
+D:\SistemaApartadoslogin\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_LiquidarApartado.resources
+D:\SistemaApartadoslogin\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_Login.resources
+D:\SistemaApartadoslogin\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_Registrar.resources
+D:\SistemaApartadoslogin\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Properties.Resources.resources
+D:\SistemaApartadoslogin\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csproj.GenerateResource.Cache
+D:\SistemaApartadoslogin\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.exe
+D:\SistemaApartadoslogin\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.pdb
+D:\SistemaApartadoslogin\SistemaApartados\SistemaApartados\bin\Debug\MySql.Data.dll
+D:\SistemaApartadoslogin\SistemaApartados\SistemaApartados\bin\Debug\itextsharp.xml
+C:\Users\ISAIAS\Desktop\PROYECTO\QUINTA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.exe
+C:\Users\ISAIAS\Desktop\PROYECTO\QUINTA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.pdb
+C:\Users\ISAIAS\Desktop\PROYECTO\QUINTA MODIFICACION\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.exe
+C:\Users\ISAIAS\Desktop\PROYECTO\QUINTA MODIFICACION\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.pdb
+C:\Users\ISAIAS\Desktop\PROYECTO\QUINTA MODIFICACION\SistemaApartados\SistemaApartados\bin\Debug\MySql.Data.dll
+C:\Users\ISAIAS\Desktop\PROYECTO\QUINTA MODIFICACION\SistemaApartados\SistemaApartados\bin\Debug\itextsharp.xml
+C:\Users\ISAIAS\Desktop\PROYECTO\QUINTA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csprojResolveAssemblyReference.cache
+C:\Users\ISAIAS\Desktop\PROYECTO\QUINTA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaApartados.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\QUINTA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultarApartados.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\QUINTA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarApartado.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\QUINTA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarProducto.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\QUINTA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_Principal.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\QUINTA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaProductos.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\QUINTA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultaProductos.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\QUINTA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_LiquidarApartado.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\QUINTA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_Login.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\QUINTA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_Registrar.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\QUINTA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Properties.Resources.resources
+C:\Users\ISAIAS\Desktop\PROYECTO\QUINTA MODIFICACION\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csproj.GenerateResource.Cache
+C:\Users\MARTIN\Desktop\verxio\hh\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.exe
+C:\Users\MARTIN\Desktop\verxio\hh\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.pdb
+C:\Users\MARTIN\Desktop\verxio\hh\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.exe
+C:\Users\MARTIN\Desktop\verxio\hh\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.pdb
+C:\Users\MARTIN\Desktop\verxio\hh\SistemaApartados\SistemaApartados\bin\Debug\MySql.Data.dll
+C:\Users\MARTIN\Desktop\verxio\hh\SistemaApartados\SistemaApartados\bin\Debug\itextsharp.xml
+C:\Users\MARTIN\Desktop\verxio\hh\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csprojResolveAssemblyReference.cache
+C:\Users\MARTIN\Desktop\verxio\hh\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaApartados.resources
+C:\Users\MARTIN\Desktop\verxio\hh\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultarApartados.resources
+C:\Users\MARTIN\Desktop\verxio\hh\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarApartado.resources
+C:\Users\MARTIN\Desktop\verxio\hh\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarProducto.resources
+C:\Users\MARTIN\Desktop\verxio\hh\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_Principal.resources
+C:\Users\MARTIN\Desktop\verxio\hh\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaProductos.resources
+C:\Users\MARTIN\Desktop\verxio\hh\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultaProductos.resources
+C:\Users\MARTIN\Desktop\verxio\hh\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_LiquidarApartado.resources
+C:\Users\MARTIN\Desktop\verxio\hh\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_Login.resources
+C:\Users\MARTIN\Desktop\verxio\hh\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_Registrar.resources
+C:\Users\MARTIN\Desktop\verxio\hh\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Properties.Resources.resources
+C:\Users\MARTIN\Desktop\verxio\hh\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csproj.GenerateResource.Cache
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.exe
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.pdb
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.exe
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\bin\Debug\SistemaApartados.pdb
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\bin\Debug\MySql.Data.dll
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\bin\Debug\itextsharp.xml
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csprojResolveAssemblyReference.cache
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaApartados.resources
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultarApartados.resources
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarApartado.resources
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ModificarProducto.resources
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_Principal.resources
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_AltaProductos.resources
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_ConsultaProductos.resources
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_LiquidarApartado.resources
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_Login.resources
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_Registrar.resources
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Properties.Resources.resources
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.csproj.GenerateResource.Cache
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ReporteProducto.resources
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\obj\x86\Debug\RdlCompile.cache
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Interfaz.Frm_ReporteApartados.resources
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_NotaCredito.resources
+C:\Users\Jeny Picazo\Downloads\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.Frm_NLiquidacion.resources
+C:\Users\perla\Desktop\proyecto nacho\proyecto final\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.exe
+C:\Users\perla\Desktop\proyecto nacho\proyecto final\SistemaApartados\SistemaApartados\obj\x86\Debug\SistemaApartados.pdb
